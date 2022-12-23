@@ -8,9 +8,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okpycko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=okpycko%27s%20Github%20Statistics&theme=github_dark" />
-  <imgheight="180em"src="https://githubreadmestats.vercel.app/api/toplangs/username=okpycko&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark"/>
-  
-  
+  <imgheight="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazkdevf&exclude_repo=KNN-Image-Classification&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
 
 -----------------------------------
